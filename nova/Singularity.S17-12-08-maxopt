@@ -10,5 +10,5 @@ From: paterno/nova:S17-12-08-maxopt
     Version v1.0
 
 %files
-    setup_env.sh /home/me/setup_env.sh
-    fardet_r00014054_s38_t00_R16-03-03-prod2reco.d_v1_data.pid.root /home/me/fardet_r00014054_s38_t00_R16-03-03-prod2reco.d_v1_data.pid.root
+    setup_env.sh /home/me
+    fardet_r00014054_s38_t00_R16-03-03-prod2reco.d_v1_data.pid.root /home/me
